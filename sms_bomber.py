@@ -12,7 +12,7 @@ import sys
 import platform
 import gc  
 
-PHONE_NUMBER = "+919959747218"  # <-- Put the target phone number here
+PHONE_NUMBER = "9959747218"  # <-- Put the target phone number here
 BATCH_SIZE = 40              
 NUMBER_OF_BATCHES = 3        
 MAX_CONCURRENT_BROWSERS = 8 
